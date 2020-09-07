@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "981309827857",
+    "firebase_url": "https://calendar-8c4ff.firebaseio.com",
+    "project_id": "calendar-8c4ff",
+    "storage_bucket": "calendar-8c4ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981309827857:android:12a6b8cc8112f3ffae7ab0",
+        "android_client_info": {
+          "package_name": "com.college.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981309827857-cvppb0c0gp05gisg4bgjba07aa66b5gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_uIcKTgJFjtz6dCjYkRxowmzDKOZMCyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981309827857-cvppb0c0gp05gisg4bgjba07aa66b5gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
